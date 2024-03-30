@@ -1,9 +1,9 @@
 const videos = [
-    { title: 'GYATT', src: 'videos/video1.mp4', type: 'video/mp4', poster: 'photos/poster_video1.jpg' },
-    { title: 'Clock Tower', src: 'videos/video2.mp4', type: 'video/mp4', poster: 'photos/poster_video2.jpg' },
-    { title: 'GYATT 2', src: 'videos/video3.mp4', type: 'video/mp4', poster: 'photos/poster_video3.jpg' },
-    { title: 'OliX Edit 1', src: 'videos/video4.mp4', type: 'video/mp4', poster: 'photos/poster_video4.jpg' },
-    { title: 'OliX Edit 2', src: 'videos/video5.mp4', type: 'video/mp4', poster: 'photos/poster_video5.jpg' },
+    { title: 'GYATT', src: 'video1.mp4', type: 'video/mp4', poster: 'poster_video1.jpg' },
+    { title: 'Clock Tower', src: 'video2.mp4', type: 'video/mp4', poster: 'poster_video2.jpg' },
+    { title: 'GYATT 2', src: 'video3.mp4', type: 'video/mp4', poster: 'poster_video3.jpg' },
+    { title: 'OliX Edit 1', src: 'video4.mp4', type: 'video/mp4', poster: 'poster_video4.jpg' },
+    { title: 'OliX Edit 2', src: 'video5.mp4', type: 'video/mp4', poster: 'poster_video5.jpg' },
     // Add more video data as needed
 ];
 
